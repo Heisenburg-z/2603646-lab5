@@ -1,0 +1,22 @@
+{
+  "name": "2603646-lab5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Heisenburg-z/2603646-lab5.git"
+  },
+  "author": "Thapelo Ndlovu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Heisenburg-z/2603646-lab5/issues"
+  },
+  "homepage": "https://github.com/Heisenburg-z/2603646-lab5#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
